@@ -1,0 +1,14 @@
+{"dataBase": {
+    "type": "service_account",
+    "project_id": "nicaragua-project",
+    "private_key_id": "e982ee238a739b0f54f4cc459e64fe85a5488d5f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDLllHiIzkk5Ti/\nFPCbRbumtA9xoT+GfStxEtPJIkPJiTIHBq6JWNt88mZ2Mj3S1cvCUreJ4XfPVnfd\nyHdqqNbsCA1RQLO4SaV35zYlv+s+8iromnk5MnhQyLwpxq4KrtReNBQOvhkqtryV\nxVKxw8g1KGP2z6wM+6flzoI+d2WlI/+lC9ChvS0QZq5ewj7d7o8yPfCD3X9cuYm3\n3s7E3j1DHPm3aRrUisQGPgyeMBXllIS5iHrUQxiQF0ZVljylipaZbEUAs+/V1rVh\n7aw1sLMw6qivu+NC1qg7BL3MSkw5MuZciB4cjdsrF250vxzz0WFUHAfe2OdZCkyl\nt9vac/JHAgMBAAECggEAGyO0UbmRVhZKjMp9Uq2mmM/7GRI+Vi7ceivg2Li9IaIs\n7ZvZ64xRYiQsPYhwDmmaypJdTj+kyZqEyyd8p9bPI9Lk95Zw/tmueb/0S278rLz6\ntFxXWaUdPeOslcMbE2h//fjiTZ7Q2w1WMX8HCZSIXXG/dbj0fhyUIsH3Qd2Hys43\nJUbAHEKbae3BP5Hao9DukJxhE/9V8lwhPLlT7/ZDUn2RbK3aHst8hcCOS6y3r+Cy\n2pFUXP73IVvjVaz5dzEZQCzinNVhwvdyyXfrljLzToXGr/k+IQ95U8Ranfby/Fib\n2ksbuU3ITWwqf/oKmXwc9SD+xhGrCbqI1fIBT6x6/QKBgQD3zOz8YjOhcq3c8vpr\nHPqEph9cOWyl3wdSO6E1EDXlTyLO1TzcYw9z5zOYm7Vw98N9QNc/+NG4LhK0+r70\ncLSeeFAXbBm4U0a9gdP9jn/6k3mJ+fU0pm9AxmmRGfOozAYZJbWVH6zWnbjsz6fI\nCvPDbJ/bLv5V4xnCuFpX8mO33QKBgQDSUt77itaEfpzQgM1QsafFSjwYiTG/o/35\noeCpzID7cCYuoH+G7tlC/J94CDFRtR6sc1bZTNVWeBx8zCEibkf8hEPnUlmWdD31\nTJnR3vscwa+7oal+cZNU5mlC7YM5LqBZgITapDH6IRVPuWG+JfRx7dDU9+y0Bp4r\nALlioOEicwKBgD4OF5rsjLl1moymXIfObf4iC+BwkQDI5XB2dlxvfs+6DaF2TRNz\nyz7fO1CQTdPIeDA5uK3QhdR11UF1ObTFNLYqswPqklZSpHh4trncobgCjoE7E2jn\n9Rxnk7A+q4It9aj+hIaftAza2qCTMBUsiPb7kNy23AJuKNlWiWlUzhwRAoGAcpKs\nX9D5HQIwALE5p2yv3Rycci1CiYgXUYaqcTUzSkWEtz+9WM8CUah2Ypfr7fvBcuX9\n+LAPQ2R4+E7m+e+jjV6r8vZ8USaPnfIVlStoFfk49viQ8Y2DWeuOieQC6QKKXVdS\niByMERs2ldCB+2iHqgyIB4vrSQKV5Q0m8CB9pBsCgYAN+oTWFvoOqk8ezc5NyuBJ\nz1SMqlW+pf59AUzCr6UFY58R7P/ZcRZkUYEecVu7AsjHyDjrO7R5/hcRrbFlrIk7\ns9zX49/8DgMkUMZ8mIHw1W3kK4CwQu/8DRoWUpyBRs9PCPDmgii3XfWXlLrFekSz\nWYLpsvMXWqAH4/HXNG5DBg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-ua6e3@nicaragua-project.iam.gserviceaccount.com",
+    "client_id": "108214192899587331913",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ua6e3%40nicaragua-project.iam.gserviceaccount.com"
+  },
+  "tokenKey":"N1c4r@6Ua"
+}
